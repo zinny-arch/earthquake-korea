@@ -121,7 +121,6 @@ def fig2_yearly_trend(df: pd.DataFrame):
 def fig3_magnitude_pie(df: pd.DataFrame):
     """규모 등급별 비율 도넛 차트"""
     grade_counts = df["규모등급"].value_counts()
-    colors = [MAG_LOW, MAG_MID, MAG_HIGH, "#C00000"]
     MAG_LOW  = "#C6EFCE"
     MAG_MID  = "#FFEB9C"
     MAG_HIGH = "#FFC7CE"
