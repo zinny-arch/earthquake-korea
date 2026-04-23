@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+		<title>국내지진조회</title>
+	<body>
+		<table class="table-col eqk-search-table" id="excel_body"> 
+			<caption>국내 지진 검색 결과를 번호, 발생시각, 규모, 깊이, 위도, 경도, 위치, 지도보기로 제공하는 표</caption>
+			<colgroup> 
+				<col style="width:6%" /> 
+				<col style="width:15%" /> 
+				<col style="width:7%" /> 
+				<col style="width:7%" /> 
+				<col style="width:7%" />  
+				<col style="width:9%" /> 
+				<col style="width:9%" /> 
+				<col /> 
+				<col style="width:8%" /> 
+				<col style="width:10%" /> 
+			</colgroup> 
+			<thead> 
+				<tr>
+					<th scope="col">번호</th>
+					<th scope="col">발생시각</th>
+					<th scope="col">규모</th>
+					<th scope="col">깊이(km)</th>
+					<th scope="col">최대<br />진도</th>
+					<th scope="col">위도</th>
+					<th scope="col">경도</th>
+					<th scope="col">위치</th>
+					<th scope="col">지도보기</th>
+					<th scope="col">상세정보<br/>(진도 등)</th> 
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td><span>12</span></td>
+					<td><span>2026/03/07 18:38:44</span></td>
+					<td><span>2.6</span></td>
+					<td><span>10</span></td>
+					<td><span>Ⅲ</span></td>
+					<td>
+						
+							<span>36.56 N</span>
+							
+							
+						
+						
+					</td>
+					<td>
+						
+							<span>129.10 E</span>
+							
+							
+						
+						
+					</td>
+					<td><span>경북 영양군 남쪽 12km 지역</span></td>
+					<td>
+						<a href="https://www.weather.go.kr/w/XML/eqk/img/eqk_img_3_20260307183844.png" target="_blank" title="새창열림">지도</a>
+						
+					</td>
+					<td>
+						
+							<a href="https://www.weather.go.kr/w/XML/INTENSITY/i_3_20260307183844.html" target="_blank" title="새창열림"><span>상세정보</span></a>
+							
+							
+						
+						
+					</td>
+				</tr>
+				<tr>
+					<td><span>11</span></td>
+					<td><span>2026/03/07 10:06:59</span></td>
+					<td><span>3.0</span></td>
+					<td><span>22</span></td>
+					<td><span>Ⅱ</span></td>
+					<td>
+						
+							<span>35.46 N</span>
+							
+							
+						
+						
+					</td>
+					<td>
+						
+							<span>125.82 E</span>
+							
+							
+						
+						
+					</td>
+					<td><span>전남 영광군 서북서쪽 66km 해역</span></td>
+					<td>
+						<a href="https://www.weather.go.kr/w/XML/eqk/img/eqk_img_3_20260307100659.png" target="_blank" title="새창열림">지도</a>
+						
+					</td>
+					<td>
+						
+							<a href="https://www.weather.go.kr/w/XML/INTENSITY/i_3_20260307100659.html" target="_blank" title="새창열림"><span>상세정보</span></a>
+							
+							
+						
+						
+					</td>
+				</tr>
+				<tr>
+					<td><span>10</span></td>
+					<td><span>2026/02/19 20:24:07</span></td>
+					<td><span>2.2</span></td>
+					<td><span>9</span></td>
+					<td><span>Ⅱ</span></td>
+					<td>
+						
+							<span>33.52 N</span>
+							
+							
+						
+						
+					</td>
+					<td>
+						
+							<span>126.88 E</span>
+							
+							
+						
+						
+					</td>
+					<td><span>제주 제주시 동쪽 32km 지역</span></td>
+					<td>
+						<a href="https://www.weather.go.kr/w/XML/eqk/img/eqk_img_3_20260219202407.png" target="_blank" title="새창열림">지도</a>
+						
+					</td>
+					<td>
+						
+							<a href="https://www.weather.go.kr/w/XML/INTENSITY/i_3_20260219202407.html" target="_blank" title="새창열림"><span>상세정보</span></a>
+							
+							
+						
+						
+					</td>
+				</tr>
+				<tr>
+					<td><span>9</span></td>
+					<td><span>2026/02/19 08:25:43</span></td>
+					<td><span>2.5</span></td>
+					<td><span>-</span></td>
+					<td><span>Ⅲ</span></td>
+					<td>
+						
+							<span>37.19 N</span>
+							
+							
+						
+						
+					</td>
+					<td>
+						
+							<span>129.07 E</span>
+							
+							
+						
+						
+					</td>
+					<td><span>강원 삼척시 남남서쪽 30km 지역</span></td>
+					<td>
+						<a href="https://www.weather.go.kr/w/XML/eqk/img/eqk_img_3_20260219082543.png" target="_blank" title="새창열림">지도</a>
+						
+					</td>
+					<td>
+						
+							<a href="https://www.weather.go.kr/w/XML/INTENSITY/i_3_20260219082543.html" target="_blank" title="새창열림"><span>상세정보</span></a>
+							
+							
+						
+						
+					</td>
+				</tr>
+				<tr>
+					<td><span>8</span></td>
+					<td><span>2026/02/15 04:13:38</span></td>
+					<td><span>3.0</span></td>
+					<td><span>9</span></td>
+					<td><span>Ⅲ</span></td>
+					<td>
+						
+							<span>38.13 N</span>
+							
+							
+						
+						
+					</td>
+					<td>
+						
+							<span>127.10 E</span>
+							
+							
+						
+						
+					</td>
+					<td><span>경기 연천군 북북동쪽 4km 지역</span></td>
+					<td>
+						<a href="https://www.weather.go.kr/w/XML/eqk/img/eqk_img_3_20260215041338.png" target="_blank" title="새창열림">지도</a>
+						
+					</td>
+					<td>
+						
+							<a href="https://www.weather.go.kr/w/XML/INTENSITY/i_3_20260215041338.html" target="_blank" title="새창열림"><span>상세정보</span></a>
+							
+							
+						
+						
+					</td>
+				</tr>
+				<tr>
+					<td><span>7</span></td>
+					<td><span>2026/02/09 10:33:29</span></td>
+					<td><span>2.4</span></td>
+					<td><span>21</span></td>
+					<td><span>Ⅰ</span></td>
+					<td>
+						
+							<span>36.57 N</span>
+							
+							
+						
+						
+					</td>
+					<td>
+						
+							<span>129.65 E</span>
+							
+							
+						
+						
+					</td>
+					<td><span>경북 영덕군 북동쪽 31km 해역</span></td>
+					<td>
+						<a href="https://www.weather.go.kr/w/XML/eqk/img/eqk_img_3_20260209103329.png" target="_blank" title="새창열림">지도</a>
+						
+					</td>
+					<td>
+						
+							<a href="https://www.weather.go.kr/w/XML/INTENSITY/i_3_20260209103329.html" target="_blank" title="새창열림"><span>상세정보</span></a>
+							
+							
+						
+						
+					</td>
+				</tr>
+				<tr>
+					<td><span>6</span></td>
+					<td><span>2026/01/31 16:36:00</span></td>
+					<td><span>2.0</span></td>
+					<td><span>-</span></td>
+					<td><span>Ⅰ</span></td>
+					<td>
+						
+							<span>33.25 N</span>
+							
+							
+						
+						
+					</td>
+					<td>
+						
+							<span>127.38 E</span>
+							
+							
+						
+						
+					</td>
+					<td><span>제주 서귀포시 동쪽 76km 해역</span></td>
+					<td>
+						<a href="https://www.weather.go.kr/w/XML/eqk/img/eqk_img_3_20260131163600.png" target="_blank" title="새창열림">지도</a>
+						
+					</td>
+					<td>
+						
+							<a href="https://www.weather.go.kr/w/XML/INTENSITY/i_3_20260131163600.html" target="_blank" title="새창열림"><span>상세정보</span></a>
+							
+							
+						
+						
+					</td>
+				</tr>
+				<tr>
+					<td><span>5</span></td>
+					<td><span>2026/01/23 01:48:21</span></td>
+					<td><span>2.0</span></td>
+					<td><span>-</span></td>
+					<td><span>Ⅰ</span></td>
+					<td>
+						
+							<span>36.33 N</span>
+							
+							
+						
+						
+					</td>
+					<td>
+						
+							<span>130.22 E</span>
+							
+							
+						
+						
+					</td>
+					<td><span>경북 영덕군 동쪽 77km 해역</span></td>
+					<td>
+						<a href="https://www.weather.go.kr/w/XML/eqk/img/eqk_img_3_20260123014821.png" target="_blank" title="새창열림">지도</a>
+						
+					</td>
+					<td>
+						
+							<a href="https://www.weather.go.kr/w/XML/INTENSITY/i_3_20260123014821.html" target="_blank" title="새창열림"><span>상세정보</span></a>
+							
+							
+						
+						
+					</td>
+				</tr>
+				<tr>
+					<td><span>4</span></td>
+					<td><span>2026/01/21 02:08:40</span></td>
+					<td><span>2.1</span></td>
+					<td><span>20</span></td>
+					<td><span>Ⅱ</span></td>
+					<td>
+						
+							<span>35.57 N</span>
+							
+							
+						
+						
+					</td>
+					<td>
+						
+							<span>128.25 E</span>
+							
+							
+						
+						
+					</td>
+					<td><span>경남 합천군 동쪽 8km 지역</span></td>
+					<td>
+						<a href="https://www.weather.go.kr/w/XML/eqk/img/eqk_img_3_20260121020840.png" target="_blank" title="새창열림">지도</a>
+						
+					</td>
+					<td>
+						
+							<a href="https://www.weather.go.kr/w/XML/INTENSITY/i_3_20260121020840.html" target="_blank" title="새창열림"><span>상세정보</span></a>
+							
+							
+						
+						
+					</td>
+				</tr>
+				<tr>
+					<td><span>3</span></td>
+					<td><span>2026/01/12 16:51:01</span></td>
+					<td><span>2.0</span></td>
+					<td><span>8</span></td>
+					<td><span>Ⅱ</span></td>
+					<td>
+						
+							<span>35.77 N</span>
+							
+							
+						
+						
+					</td>
+					<td>
+						
+							<span>128.68 E</span>
+							
+							
+						
+						
+					</td>
+					<td><span>대구 달성군 동쪽 22km 지역</span></td>
+					<td>
+						<a href="https://www.weather.go.kr/w/XML/eqk/img/eqk_img_3_20260112165101.png" target="_blank" title="새창열림">지도</a>
+						
+					</td>
+					<td>
+						
+							<a href="https://www.weather.go.kr/w/XML/INTENSITY/i_3_20260112165101.html" target="_blank" title="새창열림"><span>상세정보</span></a>
+							
+							
+						
+						
+					</td>
+				</tr>
+				<tr>
+					<td><span>2</span></td>
+					<td><span>2026/01/07 17:00:37</span></td>
+					<td><span>2.2</span></td>
+					<td><span>-</span></td>
+					<td><span>Ⅰ</span></td>
+					<td>
+						
+							<span>38.85 N</span>
+							
+							
+						
+						
+					</td>
+					<td>
+						
+							<span>125.73 E</span>
+							
+							
+						
+						
+					</td>
+					<td><span>북한 황해북도 송림 북북동쪽 15km 지역</span></td>
+					<td>
+						<a href="https://www.weather.go.kr/w/XML/eqk/img/eqk_img_3_20260107170037.png" target="_blank" title="새창열림">지도</a>
+						
+					</td>
+					<td>
+						
+							<a href="https://www.weather.go.kr/w/XML/INTENSITY/i_3_20260107170037.html" target="_blank" title="새창열림"><span>상세정보</span></a>
+							
+							
+						
+						
+					</td>
+				</tr>
+				<tr>
+					<td><span>1</span></td>
+					<td><span>2026/01/03 14:27:19</span></td>
+					<td><span>2.2</span></td>
+					<td><span>-</span></td>
+					<td><span>Ⅰ</span></td>
+					<td>
+						
+							<span>37.86 N</span>
+							
+							
+						
+						
+					</td>
+					<td>
+						
+							<span>129.47 E</span>
+							
+							
+						
+						
+					</td>
+					<td><span>강원 동해시 북동쪽 49km 해역</span></td>
+					<td>
+						<a href="https://www.weather.go.kr/w/XML/eqk/img/eqk_img_3_20260103142719.png" target="_blank" title="새창열림">지도</a>
+						
+					</td>
+					<td>
+						
+							<a href="https://www.weather.go.kr/w/XML/INTENSITY/i_3_20260103142719.html" target="_blank" title="새창열림"><span>상세정보</span></a>
+							
+							
+						
+						
+					</td>
+				</tr>
+			</tbody> 
+		</table>
+	 </body>
+</html>
